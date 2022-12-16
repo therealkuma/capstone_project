@@ -1,4 +1,4 @@
-# capstone_project: Crypto Dashboard
+# Capstone_Project: Crypto Dashboard
 
 ## Purpose
 To build a one stop platform for crypto investors to review historical to current trends for different crypto currencies. The users will also be able to conduct correlation between different currencies and make investment decisions.
