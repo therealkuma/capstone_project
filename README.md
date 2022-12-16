@@ -26,5 +26,14 @@ Step 2: The user can select a date range using a calender and can define a start
 ![image](https://user-images.githubusercontent.com/107230399/207998695-8053c8ee-0bdb-40a9-a8d2-00c299417770.png)
 
 
-Step 3: 
+Step 3: Use various technical analysis as defined above
+
+Eg. xxxxxx
+
+Step 4: User can also dowload the data for any offline analysis
+
+![image](https://user-images.githubusercontent.com/107230399/208001930-5f017c00-ddea-434a-87e3-4f11dd82c46f.png)
+
+
+## Utlizing the wallet
 
