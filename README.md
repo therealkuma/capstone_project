@@ -1,7 +1,7 @@
 # Capstone_Project: Crypto Wallet Dashboard
 
 ## Purpose
-To build a one stop platform for crypto investors to review historical to current trends for different crypto currencies. The users will also be able to conduct correlation between different currencies and make investment decisions. The investor will then be able to 
+To build a one stop platform for crypto investors to review historical to current trends for different crypto currencies. The users will also be able to conduct correlation between different currencies and make investment decisions. The investor will then be able to use the wallet to send transactions to buy and sell cryptos.
 
 ## Tools used
 Python, Streamlit, Web3 and Ganache
