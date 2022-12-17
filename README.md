@@ -1,10 +1,10 @@
-# Capstone_Project: Crypto Dashboard
+# Capstone_Project: Crypto Wallet Dashboard
 
 ## Purpose
-To build a one stop platform for crypto investors to review historical to current trends for different crypto currencies. The users will also be able to conduct correlation between different currencies and make investment decisions.
+To build a one stop platform for crypto investors to review historical to current trends for different crypto currencies. The users will also be able to conduct correlation between different currencies and make investment decisions. The investor will then be able to 
 
 ## Tools used
-Python and Streamlit
+Python, Streamlit, Web3 and Ganache
 
 ## Definitions
 1. Bollinger Band: A Bollinger Band® is a technical analysis tool defined by a set of trendlines plotted two standard deviations (positively and negatively) away from a  simple moving average (SMA) of a security's price, but which can be adjusted to user preferences.
@@ -36,4 +36,8 @@ Step 4: User can also dowload the data for any offline analysis
 
 
 ## Utlizing the wallet
+
+After the review of historical trends, the investor can transact using the wallet, created using Web3 and Ganache. In the current version, the investor can only make buy and sell transaction using the wallet, but this can be extended to an exchange where other investors can add their accounts to send and recieve the crypto assets.
+
+![image](https://user-images.githubusercontent.com/107230399/208211117-a7d72dd6-3426-437e-a8c8-1f08a3056d3a.png)
 
