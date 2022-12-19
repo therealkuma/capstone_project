@@ -35,7 +35,7 @@ Step 4: User can also dowload the data for any offline analysis
 ![image](https://user-images.githubusercontent.com/107230399/208001930-5f017c00-ddea-434a-87e3-4f11dd82c46f.png)
 
 
-## Utlizing the wallet
+## Utilizing the wallet
 
 After the review of historical trends, the investor can transact using the wallet, created using Web3 and Ganache. In the current version, the investor can only make buy and sell transaction using the wallet, but this can be extended to an exchange where other investors can add their accounts to send and recieve the crypto assets.
 
