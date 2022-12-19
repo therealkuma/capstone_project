@@ -28,12 +28,14 @@ Step 2: The user can select a date range using a calender and can define a start
 
 Step 3: Use various technical analysis as defined above
 
-Eg. xxxxxx
+Eg. The investor can use bollinger bands to estimate short term price movements and estimate entry and exit points.
+
+![image](https://user-images.githubusercontent.com/107230399/208541929-2d09b317-09bd-4a21-a4ba-d23e6cd9567c.png)
+
 
 Step 4: User can also dowload the data for any offline analysis
 
 ![image](https://user-images.githubusercontent.com/107230399/208001930-5f017c00-ddea-434a-87e3-4f11dd82c46f.png)
-
 
 ## Utilizing the wallet
 
